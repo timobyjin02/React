@@ -1,0 +1,30 @@
+:root {
+    --background-white: #ffffff;
+    --background-grey: #fafafa;
+    --gradient-one:#da3394;
+    --gradient-two:#e03c67;
+    --gradient-three:#f3753b;
+    --gradient-four:#f99b4a;
+    --font-color-primary: #262626;
+    --font-color-secondary: #8e8e8e;
+    --font-color-footer:#e7e7e7;
+    --border-color-grey: #dbdbdb;
+    --border-color-grey-secondary: #efefef;
+    --link-color: #0095f6;
+    --lick-color-secondary: #b3dffc;
+    --font: "Montserrat", sans-serif;
+}
+/* $background-white: #ffffff;
+$background-grey: #fafafa;
+$gradient-one:#da3394;
+$gradient-two:#e03c67;
+$gradient-three:#f3753b;
+$gradient-four:#f99b4a;
+$font-color-primary: #262626;
+$font-color-secondary: #8e8e8e;
+$font-color-footer:#e7e7e7;
+$border-color-grey: #dbdbdb;
+$border-color-grey-secondary: #efefef;
+$link-color: #0095f6;
+$lick-color-secondary: #b3dffc;
+$font: "Montserrat", sans-serif; */

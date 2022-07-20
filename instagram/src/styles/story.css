@@ -1,0 +1,19 @@
+@import "./_properties.css";
+
+.story {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* margin: lem 0.7em; */
+    padding: 7px;
+}
+.story:first-child{
+    margin-left: 1em;
+}
+.story:last-child {
+    margin-right: 1em;
+}
+.accountName {
+    font-size: 0.65em;
+    margin: 0.4em;
+}
