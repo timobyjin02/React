@@ -11,8 +11,8 @@ function Menu() {
     <div className="menu">
       <Home className="icon" />
       <Inbox className="icon" />
-      <Explore className="icon" />
       <Notifications className="icon" />
+      <Explore className="icon" />
       <ProfileIcon iconSize="small" image={image} storyBorder={true} />
     </div>
   );

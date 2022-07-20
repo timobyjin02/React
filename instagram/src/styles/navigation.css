@@ -43,3 +43,9 @@
   font-size: 0.85em;
   font-weight: 300;
 }
+
+/* @media only screen and (max-width: 500px) {
+  .search {
+    display: none !important;
+  }
+} */

@@ -1,0 +1,22 @@
+.footer {
+    color: #e7e7e7;
+    font-size: 0.7em;
+    margin-top: 2em;
+}
+.links {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 0 2em 0;
+    padding: 0;
+    list-style: none;
+}
+/* li {
+
+} */
+li:after {
+    content: "\2022";
+    margin: 0 0.25em;
+}
+li:last-child:after {
+    content: "";
+}

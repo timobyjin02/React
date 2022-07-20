@@ -6,7 +6,7 @@ function Suggestions() {
     <div className="suggestions">
       <div className="titleContainer">
         <div className="title">회원님을 위한 추천</div>
-        <a href="/">모두 보기</a>
+        <a id="momo">모두 보기</a>
       </div>
 
       <Profile
