@@ -10,5 +10,5 @@
 
     margin-top: 5px;
     height: 7.4em;
-    overflow: hidden;
+    overflow-x: scroll;
 }
